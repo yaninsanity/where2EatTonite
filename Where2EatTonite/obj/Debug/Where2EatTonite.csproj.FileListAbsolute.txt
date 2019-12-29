@@ -1,0 +1,17 @@
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\bin\Debug\Where2EatTonite.exe.config
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\bin\Debug\Where2EatTonite.exe
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\bin\Debug\Where2EatTonite.pdb
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.main.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.Properties.Resources.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.csproj.GenerateResource.cache
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.csproj.CoreCompileInputs.cache
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.exe
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.pdb
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.addRestaurant.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.addRestaurant.zh.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\bin\Debug\zh\Where2EatTonite.resources.dll
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\zh\Where2EatTonite.resources.dll
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.viewRestaurant.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.editForm.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.help.resources
+C:\Users\yanin\source\repos\Where2EatTonite\Where2EatTonite\obj\Debug\Where2EatTonite.csprojAssemblyReference.cache
